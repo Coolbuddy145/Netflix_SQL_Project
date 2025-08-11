@@ -1,4 +1,3 @@
-```sql
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix(
     show_id VARCHAR(10),
@@ -14,4 +13,4 @@ CREATE TABLE netflix(
     listed_in VARCHAR(100),
     description VARCHAR(250)
 );
-```
+
