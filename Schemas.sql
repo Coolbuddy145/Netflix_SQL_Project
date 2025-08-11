@@ -1,3 +1,4 @@
+'''sql
 CREATE TABLE netflix(
 					show_id	VARCHAR(10),
 					type VARCHAR(20),	
@@ -13,3 +14,4 @@ CREATE TABLE netflix(
 					description VARCHAR(250)
 					
 )
+'''
